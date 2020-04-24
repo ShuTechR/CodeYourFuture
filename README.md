@@ -1,6 +1,8 @@
+<<<<<<< HEAD
 # CodeYourFuture
 
 Our story Here
+f
 
 
 
@@ -14,4 +16,6 @@ Our story Here
 
 
 
-
+=======
+# CodeYourFuture
+>>>>>>> parent of 3c276ed... Update README.md
